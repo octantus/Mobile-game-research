@@ -1,6 +1,6 @@
-# Mobile-game-research
-A series of tasks to research several aspects of a mobile application.
-Tasks:
-- A function was written to calculate Retention.
-- In addition, the company conducted A/B testing of sets of promotional offers. Based on the available data, we determine which set can be considered the best and based on what metrics it is worth making the right decision.
-- I offer metrics for assessing the results of the last thematic event in the game.
+# Задачи
+Исследование мобильного приложения. Анализ предложений для пользователей, тестовое задание от крупной компании.
+- Создала функцию для расчета Retention с отрисовкой графика. В ходе создания протестировала работу функции как на полном датасете, так и на части  данных.
+- Провела статистический анализ имеющегоcя A/B теста по наборам предложений для пользователей. Отвечаю на вопрос, какой набор можно считать лучшим и на основе каких метрик стоит принять правильное решение.
+- Предложила метрики для оценки результатов последнего прошедшего тематического события в игре. Рассмотрела случай усложнения механики событий.
+
